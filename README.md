@@ -48,6 +48,10 @@ The model achieved an accuracy of 82%, with performance evaluated using metrics 
   https://bengaluru-house-price-prediction-vxi3.onrender.com/
   - loading the website takes time
 
+## Read More
+[![Blog](https://img.shields.io/badge/Blog-blue)](https://medium.com/@naikharshas235/house-price-prediction-with-machine-learning-in-python-5cb2a769514c)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
