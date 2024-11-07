@@ -41,6 +41,9 @@ The model achieved an accuracy of 82%, with performance evaluated using metrics 
 4. Run the main.py to see the model in action:  
    `python main.py`
 
+## Preview
+![house](https://github.com/user-attachments/assets/f5356102-4fa0-470d-94d7-50bed4b65504)
+
 # Hosted Link : 
   https://bengaluru-house-price-prediction-vxi3.onrender.com/
   - loading the website takes time
